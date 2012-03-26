@@ -9,6 +9,11 @@ Requirements
 ruby-json
 puppet
 
+Install
+-------
+
+Add to ``modules`` folder and add  ``reports=github`` to your puppet configuration, then add your github username/password using the bundled class. Check vagrant.pp
+
 Testing
 -------
 
